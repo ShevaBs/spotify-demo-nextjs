@@ -13,7 +13,7 @@ export default function Sidebar() {
 
 
   return (
-    <div className="text-gray-500 p-5 text-sm border-gray-900">
+    <div className="text-gray-500 p-5 text-sm ring-[1px] ring-gray-900 ring-opacity-90 overflow-y-auto h-screen scrollbar-hide">
 
       <div className="space-y-4">
         <button 
@@ -50,6 +50,60 @@ export default function Sidebar() {
         <hr className="border-t-[0.1px] border-gray-900"/>
 
         {/* Playlists */}
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
+        <p className="cursor-pointer hover:text-white transition-all">
+          Playlist Name ...
+        </p>
         <p className="cursor-pointer hover:text-white transition-all">
           Playlist Name ...
         </p>
