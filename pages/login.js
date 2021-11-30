@@ -6,7 +6,7 @@ export default function login({providers}) {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen w-full bg-black gap-4">
-      <img className="w-52 " src="./spotify-logo.png" alt="logo"/>
+      <img className="w-52 " src="https://links.papareact.com/9xl" alt="logo"/>
       {
         Object.values(providers).map(provider => (
           <div key={provider.name}>
